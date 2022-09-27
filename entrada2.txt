@@ -1,0 +1,5 @@
+lampara
+bombillo
+escritorio
+bolsa
+audifonos
